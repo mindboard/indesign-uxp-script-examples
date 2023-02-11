@@ -11,5 +11,5 @@ Requirements
 
 A demo converting a markdown text to InDesign Document.
 
-![md2ind](https://github.com/mindboard/indesign-uxp-script-examples/blob/main/markdown-to-indesign/md2ind.jpg)
+![md2ind](https://github.com/mindboard/indesign-uxp-script-examples/blob/main/markdown-to-indesign/md2ind.jpg | width=240)
 
