@@ -4,7 +4,7 @@
 Requirements
 
 - InDesign 2023 (version 18.1)
-- deno 1.30.3
+- [Deno](https://deno.land/) 1.30.3
 
 
 ## markdown-to-indesign
