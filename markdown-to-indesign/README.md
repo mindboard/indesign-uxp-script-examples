@@ -1,4 +1,9 @@
 
+# about
+
+Creating an InDesign Doc from a markdown text alice.md.
+
+
 # usage
 
 Check deno version:
@@ -16,5 +21,5 @@ Create an idjs file:
 $ deno bundle main.js > md2ind.idjs
 ```
 
-and then copy the main.idjs to your InDesign Script Folder.
+and then copy the md2ind.idjs to your InDesign Script Folder.
 
