@@ -9,9 +9,11 @@ Requirements
 
 ## markdown-to-indesign
 
-A demo converting a markdown text to InDesign Document.
+A demo converting a markdown text to an InDesign Document.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/markdown-to-indesign/md2ind.jpg" width="240" />
+
+[https://youtu.be/vme-tmbtgFU](https://youtu.be/vme-tmbtgFU)
 
 
 ## create-xlsx
