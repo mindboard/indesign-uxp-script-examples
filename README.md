@@ -22,6 +22,8 @@ A demo read a xlsx file and build an InDesign table document.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/read-xlsx/read-xlsx.jpg" width="240" />
 
+[https://youtu.be/O94T4zt6mzM](https://youtu.be/O94T4zt6mzM)
+
 
 ## create-xlsx
 
