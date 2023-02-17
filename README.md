@@ -18,7 +18,7 @@ A demo convert a markdown text to an InDesign Document.
 
 ## read-xlsx
 
-A demo read a xlsx file and build a InDesign table document.
+A demo read a xlsx file and build an InDesign table document.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/read-xlsx/read-xlsx.jpg" width="240" />
 
