@@ -1,6 +1,8 @@
 import {fromMarkdown} from 'https://esm.sh/mdast-util-from-markdown@1'
 import * as _ from "https://deno.land/x/lodash@4.17.15-es/lodash.js"
 
+const mymarkdown = {}
+
 const parseNode = (node, acc0)=>{
     if(node.type == 'text'){
         acc0.type = node.type;
@@ -20,9 +22,9 @@ const parseNode = (node, acc0)=>{
     }
 };
 
-const toDocumentNode = (markdownText)=> {
+mymarkdown.toDocumentNode = (markdownText)=> {
     const tree = fromMarkdown(markdownText);
     return parseNode(tree, {});
 };
 
-export { toDocumentNode };
+export { mymarkdown };

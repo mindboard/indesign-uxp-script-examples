@@ -1,7 +1,7 @@
 import { ind } from "./lib/ind.js"
 import { style } from "./lib/style.js"
 import { story } from "./lib/story.js"
-import { toDocumentNode } from "./lib/mymarkdown.js"
+import { mymarkdown } from "./lib/mymarkdown.js"
 
 
 const resolveHeadingParagraphStyle = (level, styleParams)=>{
@@ -101,7 +101,7 @@ if( file!=null ){
     const doc       = docObject.doc;
     const textFrame = docObject.textFrame;
 
-    const documentNode = toDocumentNode(markdownText);
+    const documentNode = mymarkdown.toDocumentNode(markdownText);
     
     const styleParams = {
         arialPs24 : style.getArialParagraphStyle(doc, 24),
