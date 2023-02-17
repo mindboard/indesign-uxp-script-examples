@@ -9,13 +9,21 @@ Requirements
 
 ## markdown-to-indesign
 
-A demo converting a markdown text to an InDesign Document.
+A demo convert a markdown text to an InDesign Document.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/markdown-to-indesign/md2ind.jpg" width="240" />
 
 [https://youtu.be/vme-tmbtgFU](https://youtu.be/vme-tmbtgFU)
 
 
+## read-xlsx
+
+A demo read a xlsx file and build a InDesign table document.
+
+<img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/read-xlsx/read-xlsx.jpg" width="240" />
+
+
 ## create-xlsx
 
-A demo creating a xlsx file with a UXP InDesign Script.
+A demo create a xlsx file.
+
