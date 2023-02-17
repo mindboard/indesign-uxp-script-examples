@@ -1,7 +1,7 @@
 
 # about
 
-Creating a xlsx file from uxp InDesign scripting.
+A creating a xlsx file example.
 
 
 # usage
@@ -21,5 +21,5 @@ Create an idjs file:
 $ deno bundle main.js > create-xlsx.idjs
 ```
 
-and then copy the create-xlsx.idjs to your InDesign Script Folder.
+and then copy the create-xlsx.idjs to your InDesign Script Folder and run it.
 

@@ -1,7 +1,7 @@
 
 # about
 
-Creating an InDesign Doc from a markdown text alice.md.
+A creating an InDesign document from a markdown text alice.md example.
 
 
 # usage
@@ -21,5 +21,5 @@ Create an idjs file:
 $ deno bundle main.js > md2ind.idjs
 ```
 
-and then copy the md2ind.idjs to your InDesign Script Folder.
+and then copy the md2ind.idjs to your InDesign Script Folder and run it.
 
