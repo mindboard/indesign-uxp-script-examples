@@ -37,5 +37,5 @@ A demo reading a xlsx file and build an InDesign table document.
 
 ## create-xlsx
 
-A demo creating a xlsx file.
+A creating a xlsx file example.
 
