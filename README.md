@@ -1,15 +1,25 @@
 
 # InDesign UXP Script Examples
 
-Requirements
+Requirements:
 
 - InDesign 2023 (version 18.1)
-- [Deno](https://deno.land/) 1.30.3
+- [Deno](https://deno.land/)
+    - deno 1.30.3 (release, x86\_64-apple-darwin)
+    - v8 10.9.194.5
+    - typescript 4.9.4
+
+
+## hello-world
+
+A hello world example.
+
+<img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/hello-world/hello-world.jpg" width="240" />
 
 
 ## markdown-to-indesign
 
-A demo converting a markdown text to an InDesign Document.
+A converting a markdown text to an InDesign Document example.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/markdown-to-indesign/md2ind.jpg" width="240" />
 
