@@ -17,6 +17,16 @@ A hello-world example.
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/hello-world/hello-world.jpg" width="240" />
 
 
+## hello-world-ts
+
+An example hello-world with TypeScript.
+
+This base code is almost same as the hello-world example but this one use TypeScript. 
+This example was added type declaration in order to prevent compile error when bundle.
+
+<img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/hello-world-ts/hello-world-ts.jpg" width="240" />
+
+
 ## markdown-to-indesign
 
 An example converting a markdown text to an InDesign Document.
