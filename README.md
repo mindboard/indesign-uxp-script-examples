@@ -12,14 +12,14 @@ Requirements:
 
 ## hello-world
 
-A hello world example.
+A hello-world example.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/hello-world/hello-world.jpg" width="240" />
 
 
 ## markdown-to-indesign
 
-A converting a markdown text to an InDesign Document example.
+An example converting a markdown text to an InDesign Document.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/markdown-to-indesign/md2ind.jpg" width="240" />
 
@@ -28,7 +28,7 @@ A converting a markdown text to an InDesign Document example.
 
 ## read-xlsx
 
-A demo reading a xlsx file and build an InDesign table document.
+An example reading a xlsx file and build an InDesign table document.
 
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/read-xlsx/read-xlsx.jpg" width="240" />
 
@@ -37,5 +37,5 @@ A demo reading a xlsx file and build an InDesign table document.
 
 ## create-xlsx
 
-A creating a xlsx file example.
+An example creating a xlsx file.
 
