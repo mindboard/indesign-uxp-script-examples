@@ -1,30 +1,4 @@
-
-declare class TextFrame {
-    geometricBounds: any
-    contents: String
-}
-
-declare class TextFrames {
-    add(params: any): TextFrame
-}
-declare class Page {
-    textFrames: TextFrames
-    marginPreferences: any
-}
-declare class Pages {
-    item(index: Number): Page
-}
-declare class Document {
-    pages: Pages
-}
-declare class Documents {
-    add(params: any): Document
-}
-declare class Application {
-    documents: Documents;
-}
-declare var app: Application;
-
+/// <reference types="./ind.d.ts" />
 
 const getFirstPage = (doc: Document): Page => {
     return doc.pages.item(0);
