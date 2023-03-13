@@ -27,6 +27,15 @@ This example was added type declaration in order to prevent compile error when b
 <img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/hello-world-ts/hello-world-ts.jpg" width="240" />
 
 
+## read-text-ts
+
+An example read a text file and place it into the TextFrame.
+
+This example shows how to avoid the compile error with require('uxp') when do deno bundle.
+
+<img src="https://github.com/mindboard/indesign-uxp-script-examples/blob/main/read-text-ts/read-text-ts.jpg" width="240" />
+
+
 ## markdown-to-indesign
 
 An example converting a markdown text to an InDesign Document.
