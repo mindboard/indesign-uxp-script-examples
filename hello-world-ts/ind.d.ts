@@ -1,7 +1,6 @@
 declare class TextFrame {
     contents: string
 }
-
 declare class TextFrames {
     add(params: any): TextFrame
 }
